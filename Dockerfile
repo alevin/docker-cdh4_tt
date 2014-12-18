@@ -1,6 +1,6 @@
 FROM centos:centos6
 
-MAINTERNER Alex Levin
+MAINTAINER Alex Levin
 
 RUN yum -y install lzo lzo-devel sudo wget
 
